@@ -98,7 +98,8 @@ The hinges on the top (2) and base(1) should be aligned so that they will seal t
 The box should be ready to close.
 The dice should not be visible.
 
-Once the dice are no longer video, you may once again record video if you so choose.
+Once the dice are no longer visible, you may once again record video if you so choose.
+Just be sure to turn off the video before you lift the lid to expose the key.
 
 ### 8. Close the box to seal everything together.
 
