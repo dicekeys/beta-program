@@ -37,16 +37,18 @@ If you would like to share your experience where others can benefit from it, you
 **The order of these steps is important**, as you may be unable to insert your dice or attach the lid if you close the box top (2) onto the base (1) prematurely!
 
 <p align="center">
-    <img src="./images/bowl.png" style="background-color: gray;" alt="All the parts for your DiceKey in a large bowl" />
-    All the parts for your DiceKey in a large bowl
+    <img src="./images/bowl.png" style="background-color: gray" alt="All the parts for your DiceKey in a large bowl" />
+    <br/>
+    <b>All the parts for your DiceKey in a large bowl</b>
 </p>
 
 ### 1. Unpack to reveal dice and the 3 parts of the box
 Unpack the parts you received.  We recommend you start by placing all the parts in a large bowl to ensure nothing gets lost while you assemble your DiceKey.
 
 <p align="center">
-    <img src="./images/parts-list.png" style="background-color: #f0f0f0;" alt="The box contains a (1) base, (2) top, and (3) lid." />
-    The box contains a (1) base, (2) top, and (3) lid.
+    <img src="./images/parts-list.png"" alt="The box contains a (1) base, (2) top, and (3) lid." />
+    <br/>
+    <b>The box contains a (1) base, (2) top, and (3) lid.</b>
 </p>
 
 The lid (3) of the box is mostly flat, with six small rectangular holes through which it will connect to the hinge on the box top.
