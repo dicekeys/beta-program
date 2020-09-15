@@ -36,18 +36,18 @@ If you would like to share your experience where others can benefit from it, you
 
 **The order of these steps is important**, as you may be unable to insert your dice or attach the lid if you close the box top (2) onto the base (1) prematurely!
 
-<div style="display: flex; flex-direction: column; align-items:center; padding: 10px; font-size: 0.9rem;">
+<p align="center">
     <img src="./images/bowl.png" style="background-color: gray;" alt="All the parts for your DiceKey in a large bowl" />
     All the parts for your DiceKey in a large bowl
-</div>
+</p>
 
 ### 1. Unpack to reveal dice and the 3 parts of the box
 Unpack the parts you received.  We recommend you start by placing all the parts in a large bowl to ensure nothing gets lost while you assemble your DiceKey.
 
-<div style="display: flex; flex-direction: column; align-items:center; padding: 10px; font-size: 0.9rem;">
+<p align="center">
     <img src="./images/parts-list.png" style="background-color: #f0f0f0;" alt="The box contains a (1) base, (2) top, and (3) lid." />
     The box contains a (1) base, (2) top, and (3) lid.
-</div>
+</p>
 
 The lid (3) of the box is mostly flat, with six small rectangular holes through which it will connect to the hinge on the box top.
 
@@ -61,14 +61,14 @@ The box's lid should be attached to the box's top before the box's top is joined
 
 To attach the box's lid (3) to the box top (2), place the two parts next to each other with the hinges aligned.  The top of the box top (2) is the side with the rim.
 
-<div style="display: flex; flex-direction: column; align-items:center; padding: 10px; font-size: 0.9rem;">
+<p align="center">
     <img src="./images/lid-assembly-top-view.png" style="background-color: #f0f0f0;" alt="Assembling the lid: top view" />
     View from above
     <img src="./images/lid-assembly-side-view.png" style="background-color: #f0f0f0;" alt="Assembling the lid: side view" />
     View from the side<br>
     <b>Attaching the box's lid to the box's top by placing the two parts side by side.</b><br>
     The hinges should and the lid's latch should faces up.  (If the lid latch faces down, the hinge should not line up.)
-</div>
+</p>
 
 Once the parts are aligned, rotate the lid (3) around the hinge on the box top (2) until the latch snaps down and the two parts are joined.
 
