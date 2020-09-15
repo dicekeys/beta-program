@@ -18,7 +18,7 @@ We chose not to require you to sign any agreement before joining our beta progra
 
 That means the test hardware is _yours_ to keep, though it does not replace the production hardware that you may have ordered, which will ship at a later date. You are free to share your experience with _your_ test hardware any way _you_ like.  We _request_ that you are courteous enough to make clear that this is test hardware and not necessarily what will be shipped to backers after testing completes.
 
-Since the purpose of this hardware is for testing, we cannot guarantee that it won't have problems wit it or that we won't make significant changes in the production version that would require make our software work less well with beta hardware. Even if there are no problems to fix with the beta hardware, we _request_ that you not cancel your order for our production hardware or return it.
+Since the purpose of this hardware is for testing, we cannot guarantee that it won't have problems with it or that we won't make significant changes in the production version that would require make our software work less well with beta hardware. Even if there are no problems to fix with the beta hardware, we _request_ that you not cancel your order for our production hardware or return it.
 
 While you are not obligated to event report that you received the test hardware, we hope that you will do your best to complete the requested tasks and report your experience to us.
 
@@ -37,13 +37,13 @@ If you would like to share your experience where others can benefit from it, you
 **The order of these steps is important**, as you may be unable to insert your dice or attach the lid if you close the box top (2) onto the base (1) prematurely!
 
 <p align="center">
-    <img src="./images/bowl.png" style="background-color: gray" alt="All the parts for your DiceKey in a large bowl" />
+    <img src="./images/bowl.png" style="background-color: gray" alt=" Place all the parts for your DiceKey in a large bowl" />
     <br/>
-    <b>All the parts for your DiceKey in a large bowl</b>
+    <b>Place all the parts for your DiceKey in a large bowl</b>
 </p>
 
 ### 1. Unpack to reveal dice and the 3 parts of the box
-Unpack the parts you received.  We recommend you start by placing all the parts in a large bowl to ensure nothing gets lost while you assemble your DiceKey.
+Unpack the parts you received.  We recommend you start by placing all the parts in a large bowl or a box to ensure nothing gets lost while you assemble your DiceKey.
 
 <p align="center">
     <img src="./images/parts-list.png"" alt="The box contains a (1) base, (2) top, and (3) lid." />
@@ -68,7 +68,7 @@ To attach the box's lid (3) to the box top (2), place the two parts next to each
     View from above
     <img src="./images/lid-assembly-side-view.png" style="background-color: #f0f0f0;" alt="Assembling the lid: side view" />
     View from the side<br>
-    <b>Attaching the box's lid to the box's top by placing the two parts side by side.</b><br>
+    <b>Before attaching the box's lid to the box's top, place them side by side.</b><br>
     The hinges should and the lid's latch should faces up.  (If the lid latch faces down, the hinge should not line up.)
 </p>
 
