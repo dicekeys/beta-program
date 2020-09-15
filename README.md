@@ -30,7 +30,7 @@ If you are recording video or audio, we encourage you to speak your thoughts out
 
 To share your experience privately, you may email us at beta@dicekeys.com.
 
-If you would like to share your experience where others can benefit from it, you may [File an issue in this repository](https://github.com/dicekeys/beta-program/issues/new) (requires a GitHub account) or submit a PR to this repository which adds a new directory with your experience under the [`experience-reports`](./experience-reports) directory.
+If you would like to share your experience where others can benefit from it, you may [file an issue in this repository](https://github.com/dicekeys/beta-program/issues/new) (requires a GitHub account) or submit a PR to this repository which adds a new directory with your experience under the [`experience-reports`](./experience-reports) directory.
 
 ## Instructions
 
@@ -106,6 +106,6 @@ Be sure to stop any recording before opening the box.
 
 ### 9. Please send your report to us.
 
-Once again, you mail email it to us at beta@dicekeys.com, you may [File an issue in this repository](https://github.com/dicekeys/beta-program/issues/new) (requires a GitHub account) or submit a PR to this repository which adds a new directory with your experience under the [`experience-reports`](./experience-reports) directory.
+Once again, you mail email it to us at beta@dicekeys.com (the private options) or make your experience public by [filing an issue in this repository](https://github.com/dicekeys/beta-program/issues/new) (requires a GitHub account) or submitting a PR to this repository which adds a new directory with your experience under the [`experience-reports`](./experience-reports) directory.
 
 Let us know if you'd like your name kept private or included in any acknowledgements of those who have contributed to DiceKeys by participating in our beta program.
