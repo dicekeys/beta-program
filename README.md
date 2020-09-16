@@ -8,7 +8,7 @@
  Do not push the top onto the box until:
   1. you have finished with all requested beta tasks,
   2. your dice are inside in the arrangement you want to make permanent, and
-  3. have the attached the lid (3) to the hinge on the box top (3).
+  3. have the attached the lid (3) to the hinge on the box top (2).
 
 Do not open near small children or pets, or in places where parts might be lost if dropped.
 
@@ -93,7 +93,7 @@ Take some photographs of your temporary key as you would when scanning the app, 
 If you have been recording your experience, you should stop to ensure you don't accidentally record your permanent key.
 
 ### 7. Rest the assembled top (2) and lid (3) on the base (1).
-The hinges on the top (2) and base(1) should be aligned so that they will seal the lid within the hinge.
+The hinges on the top (2) and base (1) should be aligned so that they will seal the lid within the hinge.
 
 The box should be ready to close.
 The dice should not be visible.
