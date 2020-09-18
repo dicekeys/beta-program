@@ -32,11 +32,9 @@ To share your experience privately, you may email us at beta@dicekeys.com.
 
 If you would like to share your experience where others can benefit from it, you may [file an issue in this repository](https://github.com/dicekeys/beta-program/issues/new) (requires a GitHub account) or submit a PR to this repository which adds a new directory with your experience under the [`experience-reports`](./experience-reports) directory.
 
-## Current issues
+## Known issues
 
-### iOS/MacOS
-
-**20020-09-17-10pm**: Problems reported with scanning DiceKeys into the DiceKeys app at **iOS/MacOS**.  Stuart is working on it.
+*Fixed*: Problems scanning DiceKeys into the DiceKeys app on iOS/MacOS. (App updated at 2020-09-17 11:12PM Pacific, 2020-09-18 at 6:12AM UTC)
 
 ## Instructions
 
