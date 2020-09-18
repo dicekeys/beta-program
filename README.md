@@ -32,6 +32,12 @@ To share your experience privately, you may email us at beta@dicekeys.com.
 
 If you would like to share your experience where others can benefit from it, you may [file an issue in this repository](https://github.com/dicekeys/beta-program/issues/new) (requires a GitHub account) or submit a PR to this repository which adds a new directory with your experience under the [`experience-reports`](./experience-reports) directory.
 
+## Current issues
+
+### iOS/MacOS
+
+**20020-09-17-10pm**: Problems reported with scanning DiceKeys into the DiceKeys app at **iOS/MacOS**.  Stuart is working on it.
+
 ## Instructions
 
 **The order of these steps is important**, as you may be unable to insert your dice or attach the lid if you close the box top (2) onto the base (1) prematurely!
@@ -107,6 +113,10 @@ Be sure to stop any recording before opening the box.
 
 ### 9. Please send your report to us.
 
-Once again, you may email it to us at beta@dicekeys.com (the private option) or make your experience public by [filing an issue in this repository](https://github.com/dicekeys/beta-program/issues/new) (requires a GitHub account) or submitting a PR to this repository which adds a new directory with your experience under the [`experience-reports`](./experience-reports) directory.
+Once again, you may submit it privately by email to beta@dicekeys.com. Please indicate if it is okay for us to put your report it will be visible to others (e.g. images moved to our test corpus), and whether you would like your name included when we acknowledge contributors publicly.
 
-Let us know if you'd like your name kept private or included in any acknowledgements of those who have contributed to DiceKeys by participating in our beta program.
+If you are already comfortable using GitHub and are willing to share your experience publicly, there are two additional ways to share your experience with us.
+  - [file an issue in this repository](https://github.com/dicekeys/beta-program/issues/new) 
+  - submit a pull request (PR) to this repository, with a new directory with your experience under the [`experience-reports`](./experience-reports) directory and with any test files with images of your temporary DiceKey that the app should be able to scan under the [`test-images`](./test-images) directory.
+
+<!-- If you want to make it even easier for us to use test images of your DiceKey, give them a name that maps to their value. -->
