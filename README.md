@@ -8,7 +8,7 @@
  Do not push the top onto the box until:
   1. you have finished with all requested beta tasks,
   2. your dice are inside in the arrangement you want to make permanent, and
-  3. have the attached the lid (3) to the hinge on the box top (3).
+  3. have the attached the lid (3) to the hinge on the box top (2).
 
 Do not open near small children or pets, or in places where parts might be lost if dropped.
 
@@ -18,9 +18,9 @@ We chose not to require you to sign any agreement before joining our beta progra
 
 That means the test hardware is _yours_ to keep, though it does not replace the production hardware that you may have ordered, which will ship at a later date. You are free to share your experience with _your_ test hardware any way _you_ like.  We _request_ that you are courteous enough to make clear that this is test hardware and not necessarily what will be shipped to backers after testing completes.
 
-Since the purpose of this hardware is for testing, we cannot guarantee that it won't have problems with it or that we won't make significant changes in the production version that would require make our software work less well with beta hardware. Even if there are no problems to fix with the beta hardware, we _request_ that you not cancel your order for our production hardware or return it.
+Since the purpose of this hardware is for testing, we cannot guarantee that it won't have problems or that we won't make significant changes in the production version that would require making our software work less well with beta hardware. Even if there are no problems to fix with the beta hardware, we _request_ that you not cancel your order for our production hardware or return it.
 
-While you are not obligated to event report that you received the test hardware, we hope that you will do your best to complete the requested tasks and report your experience to us.
+While you are not obligated to even report that you received the test hardware, we hope that you will do your best to complete the requested tasks and report your experience to us.
 
 ## Recording your experience
 
@@ -88,7 +88,7 @@ You may mix them up in the felt bag, roll them in your hands, or simply drop the
 
 ### 4. Scan the test key with the DiceKeys app.
 
-Got to https://dicekeys.app/ with the browser on your mobile phone, tablet, or camera-enabled computer.  Try to scan in the key and report what happens.  You may also try to generate a password for a password manager.
+Go to https://dicekeys.app/ with the browser on your mobile phone, tablet, or camera-enabled computer.  Try to scan the key and report what happens.  You may also try to generate a password for a password manager.
 
 ### 5. Take a few pictures of the temporary key
 
@@ -99,13 +99,13 @@ Take some photographs of your temporary key as you would when scanning the app, 
 If you have been recording your experience, you should stop to ensure you don't accidentally record your permanent key.
 
 ### 7. Rest the assembled top (2) and lid (3) on the base (1).
-The hinges on the top (2) and base(1) should be aligned so that they will seal the lid within the hinge.
+The hinges on the top (2) and base (1) should be aligned so that they will seal the lid within the hinge.
 
 The box should be ready to close.
 The dice should not be visible.
 
 Once the dice are no longer visible, you may once again record video if you so choose.
-Just be sure to turn off the video before you lift the lid to expose the key.
+Just be sure to turn off the video if you lift the lid and expose the key.
 
 ### 8. Close the box to seal everything together.
 
@@ -120,4 +120,3 @@ If you are already comfortable using GitHub and are willing to share your experi
   - submit a pull request (PR) to this repository, with a new directory with your experience under the [`experience-reports`](./experience-reports) directory and with any test files with images of your temporary DiceKey that the app should be able to scan under the [`test-images`](./test-images) directory.
 
 <!-- If you want to make it even easier for us to use test images of your DiceKey, give them a name that maps to their value. -->
-
