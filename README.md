@@ -107,7 +107,7 @@ Just be sure to turn off the video if you lift the lid and expose the key.
 
 ### 8. Close the box to seal everything together.
 
-Be sure to stop any recording before opening the box.
+With the assembled top (2) and lid (3) assembly resting on the base (1) with hinges aligned, press the assembly and the base together until they are snapped/sealed in place
 
 ### 9. Please send your report to us.
 
