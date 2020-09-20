@@ -34,6 +34,8 @@ If you would like to share your experience where others can benefit from it, you
 
 ## Known issues
 
+The feature to add a new password type is visible but needs instructions and design work before anyone starts using it.
+
 *Fixed*: Problems scanning DiceKeys into the DiceKeys app on iOS/MacOS. (App updated at 2020-09-17 11:12PM Pacific, 2020-09-18 at 6:12AM UTC)
 
 ## Instructions
