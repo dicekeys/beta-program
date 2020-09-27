@@ -92,6 +92,12 @@ You may mix them up in the felt bag, roll them in your hands, or simply drop the
 
 Go to https://dicekeys.app/ with the browser on your mobile phone, tablet, or camera-enabled computer.  Try to scan the key and report what happens.  You may also try to generate a password for a password manager.
 
+If you have problems, make sure they're not already fixed in the next release by trying https://staging.dicekeys.app/
+
+If there's a problem scanning, please take a screenshot of the scanning process which shows the report with screen resolution and browser version.
+
+If the best camera for scanning your DiceKey is not the first one that comes up by default, please take a screenshot of the list of cameras and let us know which one is the best.
+
 ### 5. Take a few pictures of the temporary key
 
 Take some photographs of your temporary key as you would when scanning the app, so we can build our database of images used to test our scanning algorithm.
