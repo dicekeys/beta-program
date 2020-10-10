@@ -1,14 +1,18 @@
 Transcript
 Dicekeys beta
 
-
 Name: Gulraj Rijhwani (alias camopants)
 
 
 Notice received of confirmation for the Beta, 2020-09-15.  UK delivery expected by 2020-09-29.  Delivery badly delayed by having to pay import duty and handling charge because the package wasn't marked as a testing sample.
 
-For general thoughts and experience of setting the dice there is the audio recording.
+Testing - 2020-10-09:
+For general thoughts and experience of setting the dice can be found in the audio recording.
 
 The general experience of the product is OK, though the scanner app wasn't working on iPhone 7 (iOs 14) under either Safari or DDG browser.  The app on a Linux laptop worked fine.
 
 Final assembly of the frame with lid into the box worked well.  I do think some mechanism should be available for opening and re-setting the key by choice.  Overall a good experience.
+
+
+Further thoughts - 2020-10-10:
+Since locking the final setting of the dice I have been drawn to the novelty of the thing, still, and find myself picking it up and handling it, for its own sake.  One thing that stands out to me after repeated handling of the box, which wasn't immediately noticeable is that whilst the body of the box has aesthetically pleasing and comfortable rounded corners, the upper frame and the lid do not, and they have quite starkly noticeable points.  The overall design would benefit from these corners being rounded, and perhaps the lid being a little thicker to allow for a degree of bevelling.
