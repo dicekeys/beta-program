@@ -34,11 +34,9 @@ If you would like to share your experience where others can benefit from it, you
 
 ## Known issues/updates
 
-We added improved error reporting on Monday September 21.  If you've been having problems with the DiceKeys app, please try again and email us any error reports.
+If the first camera that loads is not the best-possible one, please send in a report with which camera was best and a screen shot of the list of cameras in the camera-selection box.
 
 The feature to add a new password type is visible but needs instructions and design work before anyone starts using it.
-
-*Fixed*: Problems scanning DiceKeys into the DiceKeys app on iOS/MacOS. (App updated at 2020-09-17 11:12PM Pacific, 2020-09-18 at 6:12AM UTC)
 
 ## Instructions
 
@@ -67,7 +65,7 @@ The base (1) has no holes, and has ridges that help move dice land into the corr
 
 ### 2. Attach the lid to the box top.
 
-The box's lid should be attached to the box's top before the box's top is joined with the box's bottom.  Once the box's top and bottom are closed, you may not be able to insert the dice into the box or the lid into the hinge without breaking the box.
+If the lid did not arrive attached to the box's top, they should be attached before the box's top is joined with the box's bottom.  Once the box's top and bottom are closed, you may not be able to insert the dice into the box or the lid into the hinge without breaking the box.
 
 To attach the box's lid (3) to the box top (2), place the two parts next to each other with the hinges aligned.  The top of the box top (2) is the side with the rim.
 
@@ -82,6 +80,8 @@ To attach the box's lid (3) to the box top (2), place the two parts next to each
 
 Once the parts are aligned, rotate the lid (3) around the hinge on the box top (2) until the latch snaps down and the two parts are joined.
 
+Note, once the lid is on the top, it may not pivot smoothly, or open more than part of the way, until the top (2) and bottom (1) join to full enclose the lid (3).  Before it's closed, you'll need to insert your dice.
+
 ### 3. Roll your 25 dice into the box base
 
 You may mix them up in the felt bag, roll them in your hands, or simply drop them from the plastic bag into the box base.  Use your hands to drop any that fall back into the box back in and to line them up into a 5x5 grid so that they fall nicely into place.
@@ -91,6 +91,12 @@ You may mix them up in the felt bag, roll them in your hands, or simply drop the
 ### 4. Scan the test key with the DiceKeys app.
 
 Go to https://dicekeys.app/ with the browser on your mobile phone, tablet, or camera-enabled computer.  Try to scan the key and report what happens.  You may also try to generate a password for a password manager.
+
+If you have problems, make sure they're not already fixed in the next release by trying https://staging.dicekeys.app/
+
+If there's a problem scanning, please take a screenshot of the scanning process which shows the report with screen resolution and browser version.
+
+If the best camera for scanning your DiceKey is not the first one that comes up by default, please take a screenshot of the list of cameras and let us know which one is the best.
 
 ### 5. Take a few pictures of the temporary key
 
