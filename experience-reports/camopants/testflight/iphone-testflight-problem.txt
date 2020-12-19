@@ -1,0 +1,6 @@
+Got as far as initial test 4 (re)building the key.
+
+The "previous" of "previous/next" is over-sized and wraps.  The instruction for step 4 is incomplete because the text is too large for the zone allocated on an iPhone 7.  On a later page it is even more jumbled.
+
+Looking into the "custom recipe" option after muddling through the initial steps, there are features which are barely visible.  Are the "1" and the up/down arrows significant?  Anyone with the slightest eyesight deficiency is not going to see them.
+
